@@ -1,0 +1,10 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "AzureWebJobsStorageConnectionStringValue",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+  },
+  "ConnectionStrings": {
+    "SqlConnectionString": "Server=tcp:sqlserverdevapplogicos.database.windows.net,1433;Initial Catalog=sqlserver;Persist Security Info=False;User ID=saAdmin;Password=121790@Fab;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  } 
+}
